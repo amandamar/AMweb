@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 Audio Player</title>
+    <style>
+        #playlist{
+            list-style: none;
+        }
+        #playlist li a{
+            color:black;
+            text-decoration: none;
+        }
+        #playlist .current-song a{
+            color:blue;
+        }
+    </style>
+    <!-- Source Code From YouTube.com/MicroTechTutorials  you may remove this message on your webpage but please do not redistribtue -->
+</head>
+<body>
+    <p><a href="https://itunes.apple.com/us/artist/amanda-mar/1117023908"><img src="https://i.scdn.co/image/626e54f837d6751847aacea0603ebfa9277c0daf"</a></p>
+    <audio src="" controls id="audioPlayer">
+        Sorry, your browser doesn't support html5!
+    </audio>
+    <ul id="playlist">
+        <li class="current-song"><a href="01%20Turbulent%20Love.mp3">01 Turbulent Love.mp3</a></li>
+        <li><a href="02%20Human.mp3">02 Human</a></li>
+        <li><a href="03%20The%20Truth.mp3">03 The Truth</a></li>
+		<li><a href="04%20Night%20on%20Fire.mp3">04 Night on Fire</a></li>
+		<li><a href="05%20I%20Am%20a%20Girl.mp3">05 I Am a Girl</a></li>
+		<li><a href="06%20Lets Wait Awhile.mp3">06 Lets Wait Awhile</a></li>
+		<li><a href="07%20I%20Like.mp3">07 I Like.mp</a></li>
+		<li><a href="08%20Love%20Light%20.mp3">08 Love Light</a></li>
+		<li><a href="09%20Ill%20Follow%20You.mp3">09 Ill Follow You</a></li>
+		<li><a href="10%20Never%20Come%20Home.mp3">10 Never Come Home</a></li>
+		<li><a href="11%20Not%20Just%20Any%20Man.mp3">11 Not Just Any Man</a></li>
+		<li><a href="12%20Never%20Give%20Up.mp3">12 Never Give Up</a></li>
+		<li><a href="13%20So%20Close%20and%20yet%20so%20Far.mp3">13 So Close and yet so Far</a></li>
+		<li><a href="14%20Thank%20You.mp3">03 The Truth</a>14 Thank You</li>
+		<li><a href="15%20The%20Truth%20(Acoustic).mp3">15 The Truth (Acoustic)</a></li>
+		
+		
+    </ul>
+    <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+    <script src="audioPlayer.js"></script>
+    <script>
+        // loads the audio player
+        audioPlayer();
+    </script>
+</body>
+</html>
