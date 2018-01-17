@@ -1,23 +1,23 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516087278116">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516142037786">
   <folder name="assets">
     <file name="casey_final.mp3" crc="90667670" seo="true" mt="1509088768000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="324255882" ref="music:index:bio:booking:video:toure"/>
-    <file name="music.css" crc="4155410180" ref="music"/>
-    <file name="index.css" crc="386400128" ref="index"/>
+    <file name="master_a-master.css" crc="3860993872" ref="music:index:bio:booking:video:toure"/>
+    <file name="music.css" crc="4127987051" ref="music"/>
+    <file name="index.css" crc="55748861" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="351795114" ref="index:music:bio:booking:video:toure"/>
-    <file name="nomq_index.css" crc="3964366668" ref="index"/>
-    <file name="nomq_music.css" crc="4166181736" ref="music"/>
-    <file name="bio.css" crc="3810737704" ref="bio"/>
-    <file name="nomq_bio.css" crc="4166181736" ref="bio"/>
-    <file name="booking.css" crc="4194060716" ref="booking"/>
-    <file name="nomq_booking.css" crc="398829229" ref="booking"/>
-    <file name="video.css" crc="3810737704" ref="video"/>
-    <file name="nomq_video.css" crc="4166181736" ref="video"/>
-    <file name="toure.css" crc="390089785" ref="toure"/>
-    <file name="nomq_toure.css" crc="4166181736" ref="toure"/>
+    <file name="nomq_index.css" crc="423245734" ref="index"/>
+    <file name="nomq_music.css" crc="158160513" ref="music"/>
+    <file name="bio.css" crc="363563696" ref="bio"/>
+    <file name="nomq_bio.css" crc="158160513" ref="bio"/>
+    <file name="booking.css" crc="4158505892" ref="booking"/>
+    <file name="nomq_booking.css" crc="103641663" ref="booking"/>
+    <file name="video.css" crc="363563696" ref="video"/>
+    <file name="nomq_video.css" crc="158160513" ref="video"/>
+    <file name="toure.css" crc="337688178" ref="toure"/>
+    <file name="nomq_toure.css" crc="158160513" ref="toure"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music:bio:booking:video:toure"/>
@@ -44,10 +44,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
     <file name="img_8661.jpg" crc="3777362394" ref="index">
       <caption webpage="index" alt=""/>
@@ -55,12 +55,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="amanda mar01_07_14_05still001.jpg" crc="166170416" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="amanda mar01_07_14_05still001-u21571-fr.jpg" crc="3925277834" ref="index"/>
     <file name="amanda mar cd cover-u20083-fr.jpg" crc="387111" ref="index"/>
-    <file name="amanda mar01_07_14_05still001-u21571-fr2.jpg" crc="439926401" ref="index"/>
     <file name="amazon-grey-298x300.png" crc="4037380912" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -105,43 +100,43 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
     <file name="x.png" crc="486460471" ref="index:music">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
     <file name="liquify.jpg" crc="57626768" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="music" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
       <caption webpage="bio" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
     </file>
     <file name="u102239-4.png" crc="4276608921" ref="index:bio:music:booking:video:toure"/>
     <file name="u102248-4.png" crc="3848034610" ref="index:bio:music:booking:video:toure"/>
@@ -165,14 +160,19 @@
     <file name="u101888-113.png" crc="152887743" ref="index"/>
     <file name="u101903-113.png" crc="321466908" ref="index"/>
     <file name="amanda mar cd cover-u20083-fr3.jpg" crc="176146851" ref="index"/>
-    <file name="amanda mar01_07_14_05still001-u21571-fr3.jpg" crc="4084986738" ref="index"/>
     <file name="u101888-114.png" crc="19431872" ref="index"/>
     <file name="u101903-114.png" crc="3818447872" ref="index"/>
+    <file name="amanda mar01_07_14_05still001.png" crc="10526408" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="amanda mar01_07_14_05still001-u155602-fr.png" crc="218956568" ref="index"/>
+    <file name="amanda mar01_07_14_05still001-u155602-fr2.png" crc="3811218031" ref="index"/>
+    <file name="amanda mar01_07_14_05still001-u155602-fr3.png" crc="3826173434" ref="index"/>
   </folder>
-  <file name="index.html" crc="391103402" seo="true" mt="1516087179163" redirect="true"/>
-  <file name="music.html" crc="459735981" seo="true" mt="1516086739705" redirect="true"/>
-  <file name="bio.html" crc="4013601599" seo="true" mt="1516086739705" redirect="true"/>
-  <file name="booking.html" crc="4213213821" seo="true" mt="1516086739705" redirect="true"/>
-  <file name="video.html" crc="367505012" seo="true" mt="1516086739705" redirect="true"/>
-  <file name="toure.html" crc="513818155" seo="true" mt="1516086739705" redirect="true"/>
+  <file name="index.html" crc="138970678" seo="true" mt="1516141887445" redirect="true"/>
+  <file name="music.html" crc="3883428129" seo="true" mt="1516141747247" redirect="true"/>
+  <file name="bio.html" crc="3997312170" seo="true" mt="1516141747247" redirect="true"/>
+  <file name="booking.html" crc="3842321904" seo="true" mt="1516141747247" redirect="true"/>
+  <file name="video.html" crc="387408086" seo="true" mt="1516141747247" redirect="true"/>
+  <file name="toure.html" crc="3960908365" seo="true" mt="1516141747247" redirect="true"/>
 </manifest>
