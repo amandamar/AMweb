@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516240116536">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516248968677">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="79550044" ref="toure:bio:booking:music:index:video"/>
+    <file name="master_a-master.css" crc="4185080660" ref="toure:bio:booking:music:index:video"/>
     <file name="nomq_preview_master_a-master.css" crc="351795114" ref="toure:bio:booking:music:index:video"/>
     <file name="toure.css" crc="3829770809" ref="toure"/>
     <file name="nomq_toure.css" crc="158160513" ref="toure"/>
@@ -11,8 +11,8 @@
     <file name="nomq_booking.css" crc="103641663" ref="booking"/>
     <file name="music.css" crc="3912158602" ref="music"/>
     <file name="nomq_music.css" crc="158160513" ref="music"/>
-    <file name="index.css" crc="4155593905" ref="index"/>
-    <file name="nomq_index.css" crc="4064318702" ref="index"/>
+    <file name="index.css" crc="4189312235" ref="index"/>
+    <file name="nomq_index.css" crc="534143425" ref="index"/>
     <file name="video.css" crc="376777843" ref="video"/>
     <file name="nomq_video.css" crc="158160513" ref="video"/>
   </folder>
@@ -111,7 +111,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="amanda mar cd cover-u20083-fr.jpg" crc="387111" ref="index"/>
+    <file name="amanda mar cd cover-u20083-fr.jpg" crc="463392082" ref="index"/>
     <file name="menu-alt-512.png" crc="486695812" ref="index:music">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -147,9 +147,9 @@
     <file name="amanda mar cd cover-u20083-fr3.jpg" crc="176146851" ref="index"/>
     <file name="u101888-114.png" crc="19431872" ref="index"/>
     <file name="u101903-114.png" crc="3818447872" ref="index"/>
-    <file name="amanda mar01_07_14_05still001-u155602-fr3.png" crc="3826173434" ref="index"/>
+    <file name="amanda mar01_07_14_05still001-u155602-fr3.png" crc="248640522" ref="index"/>
   </folder>
-  <file name="index.html" crc="3762576638" seo="true" mt="1516240005246" redirect="true"/>
+  <file name="index.html" crc="3924333078" seo="true" mt="1516248921006" redirect="true"/>
   <file name="music.html" crc="15191375" seo="true" mt="1516239965500" redirect="true"/>
   <file name="video.html" crc="389821211" seo="true" mt="1516239965500" redirect="true"/>
   <file name="toure.html" crc="465243776" seo="true" mt="1516239965500" redirect="true"/>
