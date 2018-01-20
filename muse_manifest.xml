@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516435942977">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516440087353">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4010357575" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="351795114" ref="index"/>
-    <file name="index.css" crc="4159708033" ref="index"/>
-    <file name="nomq_index.css" crc="347198982" ref="index"/>
+    <file name="master_a-master.css" crc="4180057694" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="28798657" ref="index"/>
+    <file name="index.css" crc="3867161832" ref="index"/>
+    <file name="nomq_index.css" crc="134998132" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="casey_final.mp3" crc="90667670" seo="true" mt="1509088768000"/>
@@ -36,7 +36,6 @@
       <caption webpage="music" alt=""/>
       <caption webpage="music" alt=""/>
     </file>
-    <file name="u102239-4.png" crc="4276608921" ref="index"/>
     <file name="u102248-4.png" crc="3848034610" ref="index"/>
     <file name="u102330-4.png" crc="3895509085" ref="index"/>
     <file name="u102401-4.png" crc="442564687" ref="index"/>
@@ -45,7 +44,6 @@
     <file name="amanda mar cd cover.jpg" crc="3961381584" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u102964-4.png" crc="4276608921" ref="index"/>
     <file name="u102936-4.png" crc="3848034610" ref="index"/>
     <file name="u102956-4.png" crc="3895509085" ref="index"/>
     <file name="u102942-4.png" crc="442564687" ref="index"/>
@@ -58,8 +56,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u101888-11.png" crc="4279004091" ref="index"/>
-    <file name="u101903-11.png" crc="4201151776" ref="index"/>
+    <file name="u101888-11.png" crc="98340127" ref="index"/>
+    <file name="u101903-11.png" crc="482819628" ref="index"/>
     <file name="youtube.svg" crc="496682058" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -68,6 +66,10 @@
     </file>
     <file name="youtube_poster_.png" crc="221893240" ref="index"/>
     <file name="twiter.svg" crc="335481440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -122,16 +124,16 @@
       <caption webpage="music" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u101888-112.png" crc="4286179119" ref="index"/>
-    <file name="u101903-112.png" crc="82056928" ref="index"/>
+    <file name="u101888-112.png" crc="3952122303" ref="index"/>
+    <file name="u101903-112.png" crc="175849749" ref="index"/>
     <file name="amanda mar01_07_14_05still001-u155602-fr.png" crc="3855730265" ref="index"/>
     <file name="amanda mar cd cover-u20083-fr2.jpg" crc="4282351900" ref="index"/>
-    <file name="u101888-113.png" crc="122366133" ref="index"/>
-    <file name="u101903-113.png" crc="443423228" ref="index"/>
+    <file name="u101888-113.png" crc="4124363667" ref="index"/>
+    <file name="u101903-113.png" crc="4070411184" ref="index"/>
     <file name="amanda mar01_07_14_05still001-u155602-fr2.png" crc="345446258" ref="index"/>
     <file name="amanda mar cd cover-u20083-fr3.jpg" crc="176146851" ref="index"/>
-    <file name="u101888-114.png" crc="109204812" ref="index"/>
-    <file name="u101903-114.png" crc="270985781" ref="index"/>
+    <file name="u101888-114.png" crc="226037640" ref="index"/>
+    <file name="u101903-114.png" crc="3779461581" ref="index"/>
     <file name="amazon logo.svg" crc="4093947440" ref="index"/>
     <file name="amazon logo ro.svg" crc="520997949" ref="index"/>
     <file name="itunes logo.svg" crc="483953051" ref="index"/>
@@ -302,6 +304,9 @@
     <file name="spotify logo ro_poster_u200794.png" crc="4241333577" ref="index"/>
     <file name="cdbaby logo_poster_u200778.png" crc="491963842" ref="index"/>
     <file name="cdbaby logo ro_poster_u201194.png" crc="281659083" ref="index"/>
+    <file name="favicon.ico" crc="506749041" ref="index"/>
+    <file name="u206626-4.png" crc="4276608921" ref="index"/>
+    <file name="u206708-4.png" crc="4276608921" ref="index"/>
   </folder>
-  <file name="index.html" crc="4105968938" seo="true" mt="1516435885518" redirect="true"/>
+  <file name="index.html" crc="4166623723" seo="true" mt="1516439946604" redirect="true"/>
 </manifest>
