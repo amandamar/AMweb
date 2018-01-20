@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516440087353">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516440494350">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4180057694" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="28798657" ref="index"/>
-    <file name="index.css" crc="3867161832" ref="index"/>
-    <file name="nomq_index.css" crc="134998132" ref="index"/>
+    <file name="index.css" crc="4122780192" ref="index"/>
+    <file name="nomq_index.css" crc="4225863378" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="casey_final.mp3" crc="90667670" seo="true" mt="1509088768000"/>
@@ -66,6 +66,10 @@
     </file>
     <file name="youtube_poster_.png" crc="221893240" ref="index"/>
     <file name="twiter.svg" crc="335481440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -308,5 +312,5 @@
     <file name="u206626-4.png" crc="4276608921" ref="index"/>
     <file name="u206708-4.png" crc="4276608921" ref="index"/>
   </folder>
-  <file name="index.html" crc="4166623723" seo="true" mt="1516439946604" redirect="true"/>
+  <file name="index.html" crc="195335859" seo="true" mt="1516440444056" redirect="true"/>
 </manifest>
