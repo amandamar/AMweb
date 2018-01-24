@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516748548489">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="caseyfera.com2" resolutions="1x" timestamp="1516760406208">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="377080820" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="28798657" ref="index"/>
-    <file name="index.css" crc="4128995937" ref="index"/>
-    <file name="nomq_index.css" crc="4044750201" ref="index"/>
+    <file name="index.css" crc="396384184" ref="index"/>
+    <file name="nomq_index.css" crc="3916697252" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="casey_final.mp3" crc="90667670" seo="true" mt="1509088768000"/>
@@ -170,7 +170,7 @@
     <file name="still-crop-u192751.jpg" crc="3867977218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_8219-crop-u192824.jpg" crc="366499224" seo="true" ref="index">
+    <file name="img_8219-crop-u192824.jpg" crc="527514081" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_7864.jpg" crc="362123607" seo="true" ref="index">
@@ -312,5 +312,5 @@
     <file name="u206626-4.png" crc="4276608921" ref="index"/>
     <file name="u206708-4.png" crc="4276608921" ref="index"/>
   </folder>
-  <file name="index.html" crc="531256878" seo="true" mt="1516748517083" redirect="true"/>
+  <file name="index.html" crc="4163092954" seo="true" mt="1516760371149" redirect="true"/>
 </manifest>
