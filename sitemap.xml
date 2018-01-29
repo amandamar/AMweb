@@ -2,24 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://caseyfera.com2/index.html</loc>
-    <lastmod>2018-01-23</lastmod>
+    <lastmod>2018-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://caseyfera.com2/images/img_8661.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://caseyfera.com2/images/youtube.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://caseyfera.com2/images/twiter.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://caseyfera.com2/images/imdb.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://caseyfera.com2/images/facebook.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://caseyfera.com2/images/stil%202-crop-u192141.jpg</image:loc>
     </image:image>
@@ -48,6 +33,9 @@
       <image:loc>http://caseyfera.com2/images/img_8219-crop-u192824.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://caseyfera.com2/images/img_8661.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://caseyfera.com2/images/img_7864.jpg</image:loc>
     </image:image>
     <image:image>
@@ -55,6 +43,18 @@
     </image:image>
     <image:image>
       <image:loc>http://caseyfera.com2/images/img_8020.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://caseyfera.com2/images/youtube.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://caseyfera.com2/images/twiter.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://caseyfera.com2/images/imdb.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://caseyfera.com2/images/facebook.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://caseyfera.com2/images/stil%202-crop-u1921412.jpg</image:loc>
@@ -173,11 +173,5 @@
     <image:image>
       <image:loc>http://caseyfera.com2/images/img_8020264x229.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://caseyfera.com2/assets/casey_final.mp3</loc>
-    <lastmod>2017-10-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
